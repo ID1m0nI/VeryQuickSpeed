@@ -12,19 +12,19 @@
         "goldGiftModifier": 1.8,
         "cityStateTributeScalingInterval": 2.5,
         "goldenAgeLengthModifier": 0.40,
-        "religiousPressureAdjacentCity": 4.5,
+        "religiousPressureAdjacentCity": 18,
         "peaceDealDuration": 5,
         "dealDuration": 12,
         "startYear": -4000,
         "turns": [
-            {"yearsPerTurn": 200, "untilTurn": 10},
-            {"yearsPerTurn": 100, "untilTurn": 15},
-            {"yearsPerTurn": 20, "untilTurn": 30},
-            {"yearsPerTurn": 9, "untilTurn": 50},
-            {"yearsPerTurn": 7, "untilTurn": 75},
-            {"yearsPerTurn": 2, "untilTurn": 115},
-            {"yearsPerTurn": 1, "untilTurn": 180},
-            {"yearsPerTurn": 1, "untilTurn": 280}
+            {"yearsPerTurn": 330, "untilTurn": 10},
+            {"yearsPerTurn": 155, "untilTurn": 15},
+            {"yearsPerTurn": 35, "untilTurn": 30},
+            {"yearsPerTurn": 20, "untilTurn": 50},
+            {"yearsPerTurn": 15, "untilTurn": 75},
+            {"yearsPerTurn": 10, "untilTurn": 115},
+            {"yearsPerTurn": 5, "untilTurn": 180},
+            {"yearsPerTurn": 4, "untilTurn": 280}
         ]
     }
 ]
